@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Smells like Fish Tacos in here. Let me out.
